@@ -19,7 +19,7 @@ public class TruncateNames {
 	public static List<String> logLines = new ArrayList<String>();
 	public static HashMap<String, String> map = new HashMap<String, String>();
 	
-	public static String originalLocationPath = "Y:\\SHAREDBOT\\QualityAssurance\\";
+	public static String originalLocationPath = "C:\\SHAREDBOT\\";
 	public static String destinationPath = "ecms.seagen.com/departments/QA/MQA/";
 	
 	//SharePoint restrictions
@@ -132,7 +132,7 @@ public class TruncateNames {
 				}
 			}
 		}
-		file.renameTo(newFile);  //uncomment to actually rename the files on the file system
+		//file.renameTo(newFile);  //uncomment to actually rename the files on the file system
 		if(!map.containsKey(pathToFile + fileNameTruncated))
 			map.put(pathToFile + fileNameTruncated, pathToFile + fileNameTruncated);
 		

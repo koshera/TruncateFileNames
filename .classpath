@@ -6,6 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/sstoychev.SEAGEN.COM/eclipse-workspace/TruncateNames/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sstoychev.SEAGEN.COM/eclipse-workspace/TruncateFileNames/lib/commons-io-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
