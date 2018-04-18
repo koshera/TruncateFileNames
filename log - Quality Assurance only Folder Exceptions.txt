@@ -1,0 +1,18 @@
+FULL Path to Folder can not exceed 255 chars (264): https://ecms.seagen.com/departments/QA/MQA\Audits (GMP)\03_EXTERNAL Audits\Older Audits\2013 Audits\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\Audit Background\FW Day 7 (Final Day) - FDA Biennial Inspection at Abbott - RECOTHROM_files
+
+FULL Path to Folder can not exceed 255 chars (258): https://ecms.seagen.com/departments/QA/MQA\Audits (GMP)\03_EXTERNAL Audits\Older Audits\2013 Audits\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\Audit Agenda
+
+FULL Path to Folder can not exceed 255 chars (262): https://ecms.seagen.com/departments/QA/MQA\Audits (GMP)\03_EXTERNAL Audits\Older Audits\2013 Audits\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\Audit Background
+
+FULL Path to Folder can not exceed 255 chars (271): https://ecms.seagen.com/departments/QA/MQA\Audits (GMP)\03_EXTERNAL Audits\Older Audits\2013 Audits\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\Audit Background\FWDAY7~1
+
+FULL Path to Folder can not exceed 255 chars (258): https://ecms.seagen.com/departments/QA/MQA\Audits (GMP)\03_EXTERNAL Audits\Older Audits\2013 Audits\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\Audit Report
+
+FULL Path to Folder can not exceed 255 chars (264): https://ecms.seagen.com/departments/QA/MQA\Audits (GMP)\03_EXTERNAL Audits\Older Audits\2013 Audits\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\Audit Report\Notes
+
+FULL Path to Folder can not exceed 255 chars (269): https://ecms.seagen.com/departments/QA/MQA\Audits (GMP)\03_EXTERNAL Audits\Older Audits\2015 Audits\EARM-15-016, Thermo Fisher Scientific - Tewksbury, MA\Thermo Fisher Scientific Portable Optics Analysis Lab 2015 Quality Audit Questionnaire for ZymoGenetics (BMS)_files
+
+Folder can not exceed 128 chars (145): Minpromtorg of Russia conducted a GMP Inspection of BMS Anagni on February 20-22, 2017 for BMS products and February 23, 2017 for Pfizer products; THE FULL PATH IS https://ecms.seagen.com/departments/QA/MQA\QA Compliance\1_2017 GRO EVAL - BOT site\Closed Reviews\Minpromtorg of Russia conducted a GMP Inspection of BMS Anagni on February 20-22, 2017 for BMS products and February 23, 2017 for Pfizer products
+
+FULL Path to Folder can not exceed 255 chars (261): https://ecms.seagen.com/departments/QA/MQA\Transfer\For transfer 16 Mar\03_EXTERNAL Audits\Older Audits\2013 Audits\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts\EARM-13-007,Abbvie, Abbott Bioresearch Center, Worcester, Massachussetts
+

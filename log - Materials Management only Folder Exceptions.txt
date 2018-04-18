@@ -1,0 +1,16 @@
+FULL Path to Folder can not exceed 255 chars (261): https://ecms.seagen.com/departments/MSCO/northcreek\Transportation\Historical_Shipments\2011 Shipments\Clinical\rIL-31mAb\Cook\Patheon UK\ZGF1001  23Aug11 All docs in ZGF1003\Cook rIL-31mAb and Placebo Training\rIL-31mAb Pack Out Final Instructions and Examples
+
+FULL Path to Folder can not exceed 255 chars (270): https://ecms.seagen.com/departments/MSCO/northcreek\Transportation\Historical_Shipments\2012 Shipments\Clinical\IL-31 mAb\Almac UK\ZGEN\IL-31 mAb QC Samples 29Aug12 with Customs Docs\old Almac IL-31 mAb Shipment Docs\USDA Guidelines and Letters for IL-31 mAb and Placebo
+
+FULL Path to Folder can not exceed 255 chars (273): https://ecms.seagen.com/departments/MSCO/northcreek\Transportation\Historical_Shipments\2012 Shipments\rThrombin Commercial Supply Chain\Patheon It\ZGEN\ZAC1201-ZAC1202 Stability Samples ZAC1205-1208 QC Samples with Customs Docs\Guidelines 1120 rThrombin DP Samples to ZGEN
+
+FULL Path to Folder can not exceed 255 chars (283): https://ecms.seagen.com/departments/MSCO/northcreek\Transportation\Historical_Shipments\2012 Shipments\rThrombin Commercial Supply Chain\Patheon It\ZGEN\ZAC1201-ZAC1202 Stability Samples ZAC1205-1208 QC Samples with Customs Docs\ZAC1201-ZAC1202 Stability ZAC1205-ZAC1208 Customs Docs
+
+FULL Path to Folder can not exceed 255 chars (260): https://ecms.seagen.com/departments/MSCO/northcreek\Transportation\Historical_Shipments\2013 Shipments\rThrombin Commercial Supply Chain\Abbvie Research Center\20001BF Bottle Issued to Stryker\05Sep13 20001BF Bottles 7, 8, 12 to Stryker Complete\Completed Docs
+
+FULL Path to Folder can not exceed 255 chars (270): https://ecms.seagen.com/departments/MSCO/northcreek\Transportation\Historical_Shipments\2013 Shipments\rThrombin Commercial Supply Chain\Abbvie Research Center\20001BF Bottle Issued to Stryker\20001BF Bottle Issued to Stryker\03DEC13 20012BF Bottles 21 and 42 to Stryker
+
+FULL Path to Folder can not exceed 255 chars (267): https://ecms.seagen.com/departments/MSCO/northcreek\Transportation\Historical_Shipments\2013 Shipments\rThrombin Commercial Supply Chain\Abbvie Research Center\20001BF Bottle Issued to Stryker\20001BF Bottle Issued to Stryker\20001BF Docs\20001BF Up to Date Inventory
+
+FULL Path to Folder can not exceed 255 chars (271): https://ecms.seagen.com/departments/MSCO/northcreek\Transportation\Historical_Shipments\2013 Shipments\rThrombin Commercial Supply Chain\Abbvie Research Center\20001BF Bottle Issued to Stryker\20001BF Bottle Issued to Stryker\25Jun13 20001BF Bottle 46 to Stryker Complete
+
